@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Changyo Han
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Changyo
+last_name: Han
 
 # Status emoji
 status:
@@ -13,35 +13,35 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Project Lecturer (Assistant Professor equvalent)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Tokyo
+    url: https://www.u-tokyo.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Changyo Han is a HCI researcher interested in Digital Fabrication and Physical Interfaces.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Fabrication
+  - Physical Interfaces
+  - Communication Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Information Science and Technology
+      institution: The University of Tokyo
+      year: 2020
+    - course: M.E. in Electrical and Electronics Engineering
+      institution: The University of Tokyo
+      year: 2013
+    - course: B.E. in Electrical and Electronics Engineering
+      institution: Tokyo Institute of Technology
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,25 +53,22 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/hanchangyo
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=jvNYnSIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/hanchangyo
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ChangyoHan_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +77,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Changyo Han is a Project Lecturer (Assistant Professor equivalent) in Interfaculty of Interdisciplinary Information Studies, the University of Tokyo.
+
+His research interests include creating variety of physical interfaces for Human-Computer Interaction. During his PhD course, he focused on tangible interaction integrating 3D-printed physical interfaces to pressure-sensitive touch surfaces. He continues to work on prototyping of physical interfaces utilizing digital fabrication and wireless commnication technologies.
+
+Previously, he has done research on high-speed optical communication systems during his master course and professional job at ETRI.
+
+
 {style="text-align: justify;"}
