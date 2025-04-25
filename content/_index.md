@@ -285,7 +285,7 @@ sections:
       text: |-
         
       # Contact (add or remove contact options as necessary)
-      email: hanc@nae-lab.org
+      email: hanc@iii.u-tokyo.ac.jp
   #     phone: 888 888 88 88
   #     appointment_url: 'https://calendly.com'
       address:
